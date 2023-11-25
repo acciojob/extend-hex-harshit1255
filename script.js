@@ -2,7 +2,7 @@ const extendHex = (shortHex) => {
   // write your code here
 	let hex = '#'
 	let i=0;
-	if(shortHex.lenght===4)
+	if(shortHex.length===4)
 		i=1;
 	for(i;i<shortHex.length;i++)
 	{
